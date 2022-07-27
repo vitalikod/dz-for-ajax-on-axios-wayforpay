@@ -1,1 +1,0 @@
-# dz-for-ajax-on-axios-wayforpay
